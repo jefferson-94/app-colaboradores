@@ -9,9 +9,9 @@ npm install
 '''
 
 ## Inciar o projeto
-'''
+```
 npx expo start
-'''
+```
 
 ## Sequencia para criar o projeto
 '''
